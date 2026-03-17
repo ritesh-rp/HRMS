@@ -126,6 +126,7 @@ CORS_ALLOWED_ORIGINS = [
     'http://localhost:5174',
     "http://localhost:5173",
     'https://hrms-frontend-zoc5.vercel.app'
+    "https://hrms-frontend-zoc5-9489zg9ug-riteshs-projects-d833e69b.vercel.app/"
 
 ]
 
